@@ -1,0 +1,3 @@
+cd module10a-studentcard-review
+npm install
+npm run dev
